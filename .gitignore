@@ -1,0 +1,6 @@
+env
+admin/.dbdata
+admin/admin/__pycache__
+admin/products/__pycache__
+admin/products/migrations/__pycache__
+admin/db.sqlite3
